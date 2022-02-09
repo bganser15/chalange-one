@@ -11,4 +11,4 @@
 
 - Css file was consolidated for readability as well as added comments for organization
 
-![Horiseon Landing Page Screenshot](./Develop/assets/images/horiseonLanding.png)
+![Horiseon Landing Page Screenshot](./assets/images/horiseonLanding.png)
